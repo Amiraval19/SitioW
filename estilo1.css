@@ -1,0 +1,14 @@
+ body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     background-color: ghostwhite;
+ }
+
+ h1 {
+    font-family: 'Courier New', Courier, monospace;
+     color: cadetblue;
+ }
+
+ p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: brown;
+ }
