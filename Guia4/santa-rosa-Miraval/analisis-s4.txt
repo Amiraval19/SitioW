@@ -1,0 +1,11 @@
+GUÍA PRÁCTICA - SEMANA 4
+Estudiante: Andree Alvaro Miraval Albornoz
+Pareja: [Completar]
+
+1. Las tres propuestas son engañosas. Un contador falso inventa escasez: se debe mostrar stock real. Añadir una gaseosa sin permiso altera el pedido: debe ofrecerse como opción. Subir el precio al pagar oculta el costo: se debe informar el precio final desde el principio.
+
+2. La mantequilla se ofrece con su precio y solo se añade cuando el cliente pulsa el botón. La gaseosa propuesta se añadiría sin consentimiento.
+
+3. textContent muestra texto sin interpretarlo como HTML. Así evitamos introducir etiquetas o código ejecutable al mostrar nombres de productos.
+
+4. Un patrón oscuro es un contador de descuento que se reinicia para simular urgencia. Lo rediseñaría mostrando únicamente plazos reales y condiciones claras.
